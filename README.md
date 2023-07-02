@@ -27,7 +27,7 @@ Project ini adalah hasil praktikum dari mata kuliah pemrograman aplikasi interne
 
 - Clone Project ini terlebih dahulu
   
-  git clone https://github.com/alindamay/praktek-laravel/
+      git clone https://github.com/alindamay/praktek-laravel/
 
 - Jalankan composer
   
