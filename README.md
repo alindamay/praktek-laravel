@@ -18,17 +18,17 @@ Project ini adalah hasil praktikum dari mata kuliah pemrograman aplikasi interne
 - Validation Data
 - Alert Notification Data
 
-  ## Sumber
+## Sumber
 
 - [Laravel Untuk Pemula](https://santrikoding.com/account/my-courses/laravel-untuk-pemula)
 
 
 ## Cara menggunakan : 
 
-Clone Project ini terlebih dahulu
+- Clone Project ini terlebih dahulu
   git clone https://github.com/didarizaldy/santrikoding-laravelpemula/
-Jalankan composer
+- Jalankan composer
   composer install
-Jalankan dengan menggunakan
+- Jalankan dengan menggunakan
   php artisan serve
 
