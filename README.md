@@ -31,9 +31,9 @@ Project ini adalah hasil praktikum dari mata kuliah pemrograman aplikasi interne
 
 - Jalankan composer
   
-  composer install
+      composer install
   
 - Jalankan dengan menggunakan
   
-  php artisan serve
+      php artisan serve
 
